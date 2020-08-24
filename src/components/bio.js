@@ -45,7 +45,7 @@ const Bio = () => {
   Some History
     </h2>
     <p>
-    The Lakeland Terrier, a member of the Terrier Family, is a smart, playful, meduim-high energy dog breed. 
+    The Lakeland Terrier, also known as the Patterdale Terrier, a member of the Terrier Family. They were used to hunt foxes and otters, in Lake District, England, which is how they got their names.
     </p>
     </div>
   )
